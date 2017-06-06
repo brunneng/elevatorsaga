@@ -1,4 +1,4 @@
-var bot = {
+{
 
     init: function (elevators, floors) {
 
